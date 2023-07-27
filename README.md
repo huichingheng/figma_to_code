@@ -1,5 +1,7 @@
 # Figma to Code
 
+![alt text](./cover%20image.png)
+
 ## Objective
 
 Explored Figma Dev Mode and convert to code
